@@ -1,0 +1,10 @@
+sum	//This is a comment	
+1234	2a	int	bool	false
+true
+()
++-*/<	<=	>	>=	==
+!= && ||	;	=	!	=	;
+-1234
+int bool false true
+?
+:

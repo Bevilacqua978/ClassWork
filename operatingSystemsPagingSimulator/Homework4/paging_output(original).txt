@@ -1,0 +1,16 @@
+Input file: paging1-input.txt
+Page size is 512
+4 processes created
+Process memory allocation:
+PROCESS #PAGES
+0	288
+1	1325
+2	108
+3	1
+---------
+Memory Accesses:
+PROCESS	P	D
+1	112	4
+3	ILLEGAL
+2	43	206
+0	176	98
